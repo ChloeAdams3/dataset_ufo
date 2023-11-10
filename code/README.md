@@ -1,2 +1,2 @@
-# dataset_ufo
-UFO dataset for learning Github Repository and Version History
+# dataset_ufo/code
+Web scraping code used to create the dataset.
